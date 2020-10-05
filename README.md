@@ -12,9 +12,9 @@ To Show the Message in a Customise popup insted of alert <a href="https://sweeta
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="plugin/jquery-validate/jquery.validate.min.js" type="text/javascript"></script>
     <script src="plugin/jquery-validate/additional-methods.min.js" type="text/javascript"></script>
-    <!-- To Use the Dqate Formate -->
+    <!-- To Use the Date Formate -->
     <script type="text/javascript" src="js/moment.min.js"></script>
-    <!-- To Use the Dqate Formate -->
+    <!-- To Use the Date Formate -->
 ```
 
 ### We Create Our Custom Class Rules Plugins in Jquery 
